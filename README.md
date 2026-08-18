@@ -12,8 +12,6 @@ reimplementations of specific *techniques* from that project, rewritten to
 remove anything specific to the clinical assessment design. They demonstrate
 how the systems work architecturally, not the assessment itself.
 
-For the full project write-up, results, and video — [see the case study on
-my portfolio site](#) *(http://localhost:3000/projects/quest3-trajectory-tracker))*.
 
 ---
 
